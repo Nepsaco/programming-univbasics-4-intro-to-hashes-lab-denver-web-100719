@@ -9,9 +9,9 @@ def my_hash
   };
 end
 
-def pioneer (key, value)
+def pioneer
   pioneer = {
-    key: value
+    name: "Grace Hopper"
   }
 end
 
@@ -23,7 +23,7 @@ end
 
 def my_hash_creator(key, value)
   my_hash_creator = {
-    key: value
+    key =>  value
   }
 end
 
