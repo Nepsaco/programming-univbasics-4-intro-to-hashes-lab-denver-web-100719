@@ -9,9 +9,9 @@ def my_hash
   };
 end
 
-def pioneer
+def pioneer (key, value)
   pioneer = {
-    key: "Grace Hopper"
+    key: value
   }
 end
 
